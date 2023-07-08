@@ -61,6 +61,9 @@ python manage.py createsuperuser
 
 ### Run Django app
 
+##NOTE: A user logging into the app is treated as a patient and all the doctors are added through admin site for now.
+### Chekout the app in : https://play.google.com/store/apps/details?id=com.teleconsultdr.dr_kirans_ortho
+
 ```bash
 python manage.py runserver 
 ```
