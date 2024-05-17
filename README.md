@@ -64,7 +64,7 @@ python manage.py createsuperuser
 python manage.py runserver 
 ```
 # Patient's view
-<img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/b748b536-3e50-4f19-bf22-8f248a463aab" alt="Example Image" width="100" height="100">
+<img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/b748b536-3e50-4f19-bf22-8f248a463aab" alt="Example Image" width="200" height="200">
 
 ![WhatsApp Image 2023-07-18 at 16 26 08](https://github.com/Kruthikesh/teleconsult/assets/98465500/005a590a-d629-4a18-b600-ca667ef6afc8)
 ![WhatsApp Image 2023-07-18 at 16 26 07](https://github.com/Kruthikesh/teleconsult/assets/98465500/4195b5a9-76c8-449c-be9e-48db2701b295)
