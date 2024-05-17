@@ -65,16 +65,17 @@ python manage.py runserver
 ```
 # Patient's view
 <img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/b748b536-3e50-4f19-bf22-8f248a463aab" alt="Example Image" width="200" height="200">
+<img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/005a590a-d629-4a18-b600-ca667ef6afc8" alt="Example Image" width="200" height="200">
+<img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/4195b5a9-76c8-449c-be9e-48db2701b295" alt="Example Image" width="200" height="200">
 
-![WhatsApp Image 2023-07-18 at 16 26 08](https://github.com/Kruthikesh/teleconsult/assets/98465500/005a590a-d629-4a18-b600-ca667ef6afc8)
-![WhatsApp Image 2023-07-18 at 16 26 07](https://github.com/Kruthikesh/teleconsult/assets/98465500/4195b5a9-76c8-449c-be9e-48db2701b295)
 # Doctor's view
-![WhatsApp Image 2023-07-18 at 16 23 02 (1)](https://github.com/Kruthikesh/teleconsult/assets/98465500/2cb94273-e3a6-4e65-bf3d-c7d6d1e3597d)
-![WhatsApp Image 2023-07-18 at 16 23 02](https://github.com/Kruthikesh/teleconsult/assets/98465500/92edb2b3-e010-4d09-9d29-991014419116)
-![WhatsApp Image 2023-07-18 at 16 23 01 (1)](https://github.com/Kruthikesh/teleconsult/assets/98465500/9ecae494-de1a-4dee-b59c-c84d9379ac6e)
-![WhatsApp Image 2023-07-18 at 16 23 00 (1)](https://github.com/Kruthikesh/teleconsult/assets/98465500/78562915-74c3-48e1-a323-d8096e83f3ed)
-![WhatsApp Image 2023-07-18 at 16 23 00](https://github.com/Kruthikesh/teleconsult/assets/98465500/1bc0bf42-919e-49e6-8e0e-683510adb684)
-![WhatsApp Image 2023-07-18 at 16 23 01](https://github.com/Kruthikesh/teleconsult/assets/98465500/75862140-5413-4b03-9610-5434c8444606)
+<img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/2cb94273-e3a6-4e65-bf3d-c7d6d1e3597d" alt="Example Image" width="200" height="200">
+<img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/92edb2b3-e010-4d09-9d29-991014419116" alt="Example Image" width="200" height="200">
+<img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/9ecae494-de1a-4dee-b59c-c84d9379ac6e" alt="Example Image" width="200" height="200">
+<img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/78562915-74c3-48e1-a323-d8096e83f3ed" alt="Example Image" width="200" height="200">
+<img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/1bc0bf42-919e-49e6-8e0e-683510adb684" alt="Example Image" width="200" height="200">
+<img src="https://github.com/Kruthikesh/teleconsult/assets/98465500/75862140-5413-4b03-9610-5434c8444606" alt="Example Image" width="200" height="200">
+
 
 ### NOTE: A user logging into the app is treated as a patient and all the doctors are added through admin site for now.
 ### Chekout the app in : https://play.google.com/store/apps/details?id=com.teleconsultdr.dr_kirans_ortho
